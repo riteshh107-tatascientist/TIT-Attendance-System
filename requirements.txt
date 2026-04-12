@@ -1,9 +1,8 @@
 streamlit
 streamlit-webrtc
-streamlit-gsheets
-opencv-python
+st-gsheets-connection
+opencv-python-headless
 deepface
+tf-keras
 pandas
 matplotlib
-numpy
-tensorflow
