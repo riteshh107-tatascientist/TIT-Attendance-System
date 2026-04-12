@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+streamlit-gsheets
+opencv-python
+deepface
+pandas
+matplotlib
+numpy
+tensorflow
